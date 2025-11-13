@@ -18,7 +18,7 @@ This project is ideal for beginners learning how to create GUI-based authenticat
 
 ## Output
 
-![Output]()
+![Output](Screenshots/SignIn.png)
 
 ---
 
