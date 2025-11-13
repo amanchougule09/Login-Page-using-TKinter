@@ -16,6 +16,12 @@ This project is ideal for beginners learning how to create GUI-based authenticat
 
 ---
 
+## Output
+
+![Output]()
+
+---
+
 ## 🚀 How to Run  
 1. **Clone** or **download** this repository  
 2. Ensure **Python 3.8 or higher** is installed  
